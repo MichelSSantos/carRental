@@ -8,8 +8,7 @@ public class Vehicle {
 		
 	}
 
-	public Vehicle(String model) {
-		
+	public Vehicle(String model) {	
 		this.model = model;
 	}
 
